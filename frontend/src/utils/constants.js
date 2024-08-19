@@ -1,3 +1,3 @@
-const baseUrl = "https://todo-app-api-one.vercel.app/api"
+const baseUrl = "https://notes-app-framer-api.vercel.app/api"
 
 export default baseUrl
